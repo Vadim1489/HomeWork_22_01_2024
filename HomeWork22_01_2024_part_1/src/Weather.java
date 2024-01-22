@@ -1,6 +1,6 @@
 public class Weather {
     String hello = "";
-    String what_is_your_name = "";
+    String whatIsYourName = "";
     int number =0;
 
 }

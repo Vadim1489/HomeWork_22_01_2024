@@ -11,8 +11,8 @@ class Main {
         weather1.hello = scanner.nextLine();
 
         System.out.println("Как вас зовут? ");
-        weather1.what_is_your_name = scanner.nextLine();
-        System.out.println("Приятно познакомиться! " + weather1.what_is_your_name);
+        weather1.whatIsYourName = scanner.nextLine();
+        System.out.println("Приятно познакомиться! " + weather1.whatIsYourName);
 
         System.out.println("Наша программа конвертирует градусы Цельсия в Фаренгейт. Если хотите узнать какая у вас температура по Фаренгейту? Введите гардусы по Цельсию: ");
         weather1.number = scanner.nextInt();
